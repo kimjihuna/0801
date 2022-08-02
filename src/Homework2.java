@@ -15,5 +15,6 @@ public class Homework2 {
 			}
 			count = 0;
 		}
+
 	}
 }
